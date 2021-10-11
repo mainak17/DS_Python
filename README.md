@@ -1,4 +1,4 @@
-echnical Exercise
+Technical Exercise
 Guidance
 Please fork this repository so that we can see you've successfully accessed the exercise.
 Submit your solution by creating a pull request back to the source repository. You're welcome to create the PR immediately before starting the solution.
